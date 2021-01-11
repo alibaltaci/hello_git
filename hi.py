@@ -3,8 +3,8 @@
 print("hello ai era")
 
 def ozymandias():
-    print("My name is Ozymandias, King of king \n" 
-          "Look on my works, e mighty, and despair!")
+    print("My name is Ozymandias, King of kings \n" 
+          "Look on my works, ye mighty, and despair!")
 
 ozymandias()
 
