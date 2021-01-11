@@ -13,3 +13,4 @@ def pull():
           "Fetch ile güncellik kontrolü yapıp, \n"
           "Pull ile değişik lokale çekilebilir.")
           
+pull()
