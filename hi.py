@@ -11,5 +11,5 @@ ozymandias()
 def pull():
     print("Bu fonksiyon Github üzeinden oluşrurulmuştur.\n"
           "Fetch ile güncellik kontrolü yapıp, \n"
-          "Pull ile değişik lokale çekilebilir."
+          "Pull ile değişik lokale çekilebilir.")
           
