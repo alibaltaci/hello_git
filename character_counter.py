@@ -13,7 +13,13 @@
 # 2- Pycharmda character_counter fonksiyonunu oluştur.
 
 def character_counter():
-    txt = input("Enter text")
+    """
+    Note: spaces also count as characters.
+
+    :return:
+    """
+    print("Note: spaces also count as characters.")
+    txt = input("Enter text: ")
     print(txt, "text consists of {} characters".format(len(txt)))
 
 character_counter()
